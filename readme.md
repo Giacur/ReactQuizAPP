@@ -13,7 +13,5 @@ export default function TeachMeReact(){
 
 [Scarica e prova la mia App](https://github.com/Giacur/ReactQuizAPP)
 
----
-
 ![QuizApp logo](https://play-lh.googleusercontent.com/-dGSUTdes6YTUtZfrtFfTsRPiIMCB8e2ykbhXDCg36qnvxdG_B6G51tNlvm66nPNrg)
 
