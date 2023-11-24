@@ -1,8 +1,7 @@
 import { useCallback, useState } from "react";
 import QUESTIONS from '../questions.js';
-import QuestionTimer from "./QuestionTimer.jsx";
-import Answers from "./Answers.jsx";
 import Question from "./Question.jsx";
+import Summary from "./Summary.jsx";
 
 export default function Quiz(){
     const [userAnswers, setUserAnswers] = useState([]);
@@ -20,12 +19,12 @@ export default function Quiz(){
         });
     }, [])
     
+    const handleSkipAnswer  = useCallback(()=>handleSelectAnswer(null), [handleSelectAnswer])
     
     if (quizIsComplete){
-        return 
+        return <Summary userAnswers={userAnswers}/>
     }
 
-    const handleSkipAnswer  = useCallback(()=>handleSelectAnswer(null), [handleSelectAnswer])
 
     
 
