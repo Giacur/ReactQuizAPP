@@ -11,7 +11,7 @@ export default function TeachMeReact(){
 ```
 ---
 
-[Scarica e prova la mia App](git@github.com:Giacur/ReactQuizAPP.git)
+[Scarica e prova la mia App](https://github.com/Giacur/ReactQuizAPP)
 
 ---
 
