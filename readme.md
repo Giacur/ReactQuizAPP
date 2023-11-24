@@ -1,6 +1,6 @@
 # QuizApp realizzata in react seguendo il corso Udemy
 
-**Vengono applicati la maggior parte degli Hooks**
+**In questa App vengono applicati la maggior parte degli Hooks**
 
 ```
 export default function TeachMeReact(){
@@ -9,4 +9,11 @@ export default function TeachMeReact(){
      </>
 }
 ```
+---
+
+[Scarica e prova la mia App](git@github.com:Giacur/ReactQuizAPP.git)
+
+---
+
+![QuizApp logo](https://play-lh.googleusercontent.com/-dGSUTdes6YTUtZfrtFfTsRPiIMCB8e2ykbhXDCg36qnvxdG_B6G51tNlvm66nPNrg)
 
