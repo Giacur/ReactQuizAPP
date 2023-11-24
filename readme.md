@@ -2,20 +2,20 @@
 
 **In questa App vengono applicati la maggior parte degli Hooks**
 
--useState
--useRef
--forwardRef
--createPortal
--useCallback
--useEffect
+- useState
+- useRef
+- forwardRef
+- createPortal
+- useCallback
+- useEffect
 
 **Componenti multipli con props-drilling**
--Answers
--Header
--Question
--QuestionTimer
--Quiz
--Summary
+- Answers
+- Header
+- Question
+- QuestionTimer
+- Quiz
+- Summary
 
 ```
 export default function TeachMeReact(){
